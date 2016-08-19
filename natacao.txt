@@ -1,0 +1,51 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="estilo.css"/>
+<title> Atletismo </title>
+<div id="estilo">
+</br></br>
+<img src="Rio 2016.jpg"/>
+<link rel= "stylebheet" type= "text/css" href= "estilo.css" />
+</head>
+<body background="Fundo.jpg" bgproperties="fixed" widch: 100% >
+<body>
+<img src="Natacao.jpg"/>
+<h4>Natação</h4>
+</br></br>
+Natação é a capacidade do homem e de outros seres vivos de se deslocarem através de movimentos efetuados no meio líquido, geralmente sem ajuda artificial. A natação é uma atividade física que pode ser simultaneamente útil e recreativa. As suas principais utilizações são recreativas, balneares, pesca, exercício e desporto.
+
+<h4>História</h4>
+</br></br>
+O registro mais antigo sobre a natação remonta às pinturas rupestres de cerca de 7.000 anos atrás. As referências escritas remontam a 2000 a. C. Algumas das primeiras referências estão incluídas em obras históricas como a Epopeia de Gilgamesh, a Ilíada, a Odisseia, a Bíblia (Ezequiel 47:5, Atos 27:42, Isaías 25:11), Beowulf, e outras sagas. No ano de 1538, Nikolaus Wynmann, um professor alemão de linguística, escreveu o primeiro livro sobre natação, “O Nadador ou o diálogo sobre a arte de Nadar” (Der Schwimmer oder ein Zwiegespräch über die Schwimmkunst) A natação de competição começou na Europa por volta do ano de 1800, na sua maioria utilizando o estilo bruços. Posteriormente, em 1873, John Arthur Trudgen, apresentou o estilo Trudgen, após ter copiado o estilo crawl usado pelos Índios Nativos Norte-americanos, criando uma ligeira variante do mesmo. Devido ao repúdio dos britânicos pelos salpicos, Trudgen empregou a pernada de bruços no lugar do batimento de pernas convencional do estilo crawl. A natação fez parte dos primeiros Jogos Olímpicos da era moderna em 1896, em Atenas. Finalmente em 1902 Richard Cavill introduziu o estilo crawl e em 1908, foi fundada a Federação Internacional de Natação (FINA). O estilo mariposa foi desenvolvido na década de 1930, que no início surgiu como uma variante do estilo de bruços, até que foi aceita como um estilo distinto, em 1952.
+
+<h4>Natação animal</br>
+</br></br>
+Diversos animais possuem a habilidade de natação por instinto, como é o caso do homem. Nos mamíferos, esta natação por instinto tem o nome de "Natação Padrão". Este tipo de natação define-se por ser executada com a cabeça fora de água, batimentos dianteiros dos braços (patas anteriores) com um ângulo próximo dos 90 graus e pernas (patas posteriores) em leve flexão (realizando um movimento parecido com o pedalar). Este modo de nadar é vulgarmente conhecido por “nadar à cão”.
+
+<h4>Recreação</h4>
+</br></br>
+Como atividade recreativa, a natação é muito difundida. Muitos nadadores entram na água apenas para se divertir, tanto em piscinas artificiais como nos mares, lagos e rios.
+
+Embora os estilos de natação também sejam utilizados no lazer, é muito comum que os nadadores recreativos utilizem estilos menos técnicos, geralmente mantendo a cabeça fora de água.
+
+<h4>Modalidades</h4>
+</br></br>
+Existem 6 modalidades/disciplinas distintas na especialidade de natação:
+
+Natação pura
+Polo aquático
+Saltos para a água
+Natação de águas abertas
+Natação sincronizada
+Mergulho
+Das quais a natação pura, o polo aquático e a natação de águas abertas possuem a categoria Masters.
+</br><h4> Outros esportes </h4>
+</br><ul id= "nav">
+<li><a href= "file:///C:/Users/Inform%C3%A1tica%202%C2%BA%20ano/Desktop/Nova%20pasta/atletismo.html">Atletismo </a>
+<li><a href= "file:///C:/Users/Inform%C3%A1tica%202%C2%BA%20ano/Desktop/Nova%20pasta/basquetebol.html">Basquetebol </a>
+<li><a href= "file:///C:/Users/Inform%C3%A1tica%202%C2%BA%20ano/Desktop/Nova%20pasta/ginastica.html">Ginastica </a></li>
+</ul>
+</li>
+</br></br>
+</body>
+</html>

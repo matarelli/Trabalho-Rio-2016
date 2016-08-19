@@ -1,0 +1,76 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="estilo.css"/>
+<title> Basquetebol </title>
+<div id="estilo">
+</br></br>
+<img src="Rio 2016.jpg"/>
+<img src="Basqueteboll.jpg"/>
+<link rel= "stylebheet" type= "text/css" href= "estilo.css" />
+</head>
+<body background="Fundo.jpg" bgproperties="fixed" widch: 100% >
+<body>
+<h4>Basquetebol</h4>
+</br></br>
+O basquetebol ou bola ao cesto é um jogo desportivo coletivo inventado em 1891 pelo professor de Educação Física canadense James Naismit, na Associação Cristã de Rapazes de Springfield, Massachusetts, Estados Unidos. É disputado por duas equipes de 10 jogadores (5 em campo e 5 suplentes) que têm como objetivo passar a bola por dentro de um cesto e evitar que a bola entre no seu cesto colocado nas extremidades da quadra, seja num ginásio ou ao ar livre.
+
+Os aros que formam os cestos são colocados a uma altura de 3 metros e 5 centímetros. Os jogadores podem caminhar no campo desde que driblem (batam a bola contra o chão) a cada passo dado. Também é possível executar um passe, ou seja,passar a bola em direção a um companheiro de equipe.
+
+O basquetebol é um desporto olímpico desde os Jogos Olímpicos de Verão de 1936 em Berlim.
+
+O nome vem do inglês basketball, que significa literalmente "bola no cesto". É um dos esportes mais populares do mundo.
+
+Em Dezembro de 1891, o professor de educação física canadense James Naismit, do Springfield College (então denominada Associação Cristã de Rapazes), em Massachusetts, Estados Unidos, recebeu uma tarefa de seu diretor: criar um desporto que os alunos pudessem praticar em um local fechado, pois o inverno costumava ser muito rigoroso, o que impedia a prática do Baseball e do Futebol Americano.
+
+James Naismith logo descartou um jogo que utilizasse os pés ou com muito contato físico, pois poderiam se tornar muito violentos devido às características de um ginásio, local fechado e com piso de madeira.
+
+Logo escreveu as treze regras básicas do jogo e pendurou um cesto de pêssegos a uma altura que julgou adequada: 10 pés, equivalente a 3,05 metros, altura que se mantém até hoje; já a quadra possuía, aproximadamente, metade do tamanho da atual.
+Em contrastes com as redes de basquete moderno, em cesta de pêssegos manteve a sua parte inferior, e as bolas tinham que ser retiradas manualmente após cada "cesto" ou ponto marcado, o que provou ser ineficaz. Dessa forma, um buraco foi perfurado no fundo da cesta, permitindo que as bolas fossem retiradas a cada vez com uma longa vara. Os cestos de pêssegos foram utilizados até 1906, quando foram finalmente substituídos por aros de metal com tabela.
+
+Uma outra alteração foi feita logo cedo, de forma que a bola apenas passasse pela cesta, abrindo caminho para o jogo que conhecemos hoje. Uma bola de futebol foi usada para acertar as cestas. Sempre que uma pessoa arremessava uma bola na cesta, a sua equipe ganharia um ponto. A equipe com o maior número de pontos ganhava o jogo.[4] As cestas foram originalmente pregadas ao balcão do mezanino da quadra de jogo, mas isto se provou impraticável quando os espectadores no balcão começaram a interferir nos arremessos. A tabela foi introduzida para evitar essa interferência, que teve o efeito adicional de permitir rebotes. Esse desporto chama-se "basquetebol".
+
+</h4>Características</h4>
+</br></br>
+Cesto é o nome comum que se dá ao encestar (fazer a bola passar pelo aro) e então marcam-se pontos, dependendo do local e das circunstâncias do cesto: se for cesto dentro do garrafão (nome comum dado à Área Restritiva) obtém-se dois pontos, se for fora da linha dos 6,25 metros obtém-se 3 pontos, se for lance livre após uma falta, o cesto equivale a 1 ponto. As equipes devem fazer pontos sempre do lado oposto - é o meia-quadra de ataque - e defender o cesto do seu lado - na meia-quadra de defesa. Obviamente a equipa que defende tenta impedir a equipa que ataca de fazer cesto, através da marcação, da interceptação de passes ou até mesmo do bloqueio (toco) ao lançamento.
+
+Os jogadores penduram-se no aro com a bola para fazer espetáculo (Encaixada). No entanto, contatos físicos mais fortes são punidos como falta. Se o jogador fizer cinco faltas terá que ser substituído e não poderá voltar ao jogo. A partir da quarta falta coletiva de uma equipa , a equipa adversária tem o direito a lances livres toda a vez que sofrer falta. As faltas efetuam-se da seguinte maneira: se um jogador faz falta ao atacante e este encesta, os 2 pontos contam-se e esse jogador tem direito a 1 lance livre (se não acertar os outros jogadores irão tentar apanhar a bola - rebote). Se a falta for cometida e o atacante não conseguir encestar terá direito a 2 ou 3 lances livres, dependendo do local onde foi cometida a falta.
+
+Atualmente o basquete internacional encontra-se organizado pela FIBA - Federação Internacional de Basquetebol. As suas determinações valem para todos os países onde o basquete é jogado, exceto para a liga profissional de basquete dos EUA, a NBA, que mantém regras próprias, um pouco diferentes das regras internacionais. A expectativa é que as duas entidades se aproximem cada vez mais os seus regulamentos.
+Para jogos regulamentados pela FIBAI, o tempo de jogo oficial é de 60 minutos, divididos em quatro períodos iguais de 10 minutos cada. Entre o 2º e 3º períodos, há intervalo de 15 minutos, e invertem-se as quadras de ataque e defesa das equipas; logo, cada equipa defende em dois períodos cada cesto. Ao contrário dos outros desportos coletivos, não há sorteio para definir-se de quem é a posse de bola no começo do jogo: a bola é lançada ao ar por um árbitro, e um jogador de cada equipa (normalmente o mais alto) posiciona-se para saltar e tentar passar a bola a um companheiro.
+
+Não é permitido sair dos limites da quadra, e nos jogos oficiais também não é permitido que o jogador leve a bola para a quadra de ataque e retorne para a quadra de defesa (retorno). Além disso há também uma limitação de tempo (24 segundos) para executar uma jogada, e a proibição de que o atleta salte e retorne ao chão (com os 2 pés ao mesmo tempo) com a posse de bola, sem executar lançamento ou passe. As faltas são cobradas da lateral de quadra, assim como as demais violações; no entanto, caso uma equipa cometa mais de 4 faltas num período, as faltas do adversário passam a ser cobrados na forma de lance livre: o jogador posiciona-se numa linha a 4,60 metros do cesto e lança sem a marcação dos rivais. O lance livre também é cobrado quando um jogador sofre falta no momento em que está tentando encestar - independentemente do número total de faltas da equipa adversário.
+
+Além da NBA, que é considerada uma liga muito emocionante e espectacular, o principal torneio de clubes de basquete é a Euroliga. Se, por um lado a NBA conta com os jogadores de maior poder defensivo e de força, a Euroliga conta com jogadores mais cerebrais e técnicos. Já entre as seleções, os torneio mais importantes são o Mundial da FIBA e os Jogos Olímpicos.
+
+O basquetebol em cadeira de rodas é uma modalidade bastante conhecida entre os desportos para pessoas com necessidades especiais.
+
+O Mini Basquetebol é a forma de disputa do desporto para crianças com menos de 12 anos. Foi desenvolvido como uma forma divertida de se descobrir o basquete. Algumas regras são diferentes do basquetebol tradicional. A altura da cesta (do aro até o solo) é de 3,05 m. O tempo de jogo recomendado pela FIBA é de 2 períodos de 20 minutos, no entanto, alguns Estados criam adaptações a esta regra visando um maior desenvolvimento do jogo.
+
+<h4>Objetivo do jogo</h4>
+</br></br>
+O objetivo do jogo é introduzir a bola no cesto da equipe adversária (marcando pontos) e, simultaneamente, evitar que esta seja introduzida no próprio cesto, respeitando as regras do jogo. A equipe que obtiver mais pontos no fim do jogo vence.
+
+A competição é dirigida por:
+
+Três árbitros – têm como função assegurarem o cumprimento das regras do jogo.
+Um marcador e o seu auxiliar – têm como funções o preenchimento do boletim de jogo, onde registram os pontos marcados, as faltas pessoais e técnicas, etc.
+O cronometrista – verifica o tempo de jogo e os descontos de tempo
+Um operador de vinte e quatro segundos – controla os 24 segundos que cada equipe dispõe para a execução de uma jogada.
+
+<h4>Posições</h4>
+</br></br>
+São usadas, geralmente, no basquete, três posições: alas, pivôs e armador. Na maioria das equipes temos dois alas, dois pivôs e um armador.
+
+Armador ou base é como o cérebro dos jogadores. Planeja as jogadas e geralmente começa com a bola. Em inglês essa posição é conhecida como point guard ou simplesmente PG.
+Ala e ala/armador ou extremos jogam pelos cantos. A função do ala muda bastante. Ele pode ajudar o base, ou fazer muitas cestas. Em inglês essas posições são conhecidas como small forward ou simplesmente SF e shooting guard ou simplesmente SG.
+Ala/pivô e Pivô ou postes são, na maioria das vezes, os mais altos e mais fortes. Com a sua altura, pegam muitos rebotes, fazem muitos afundaços (enterradas) e bandejas, e na defesa ajudam muito com os tocos. Em inglês essas posições são conhecidas como power forward ou simplesmente PF e center ou simplesmente C.
+</br><h4> Outros esportes </h4>
+</br><ul id= "nav">
+<li><a href= "file:///C:/Users/Inform%C3%A1tica%202%C2%BA%20ano/Desktop/Nova%20pasta/atletismo.html">Atletismo </a>
+<li><a href= "file:///C:/Users/Inform%C3%A1tica%202%C2%BA%20ano/Desktop/Nova%20pasta/ginastica.html">Ginastica </a></li>
+<li><a href= "file:///C:/Users/Inform%C3%A1tica%202%C2%BA%20ano/Desktop/Nova%20pasta/natacao.html">Natacao </a></li>
+</ul>
+</li>
+</br></br>
+</body>
+</html>

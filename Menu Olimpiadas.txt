@@ -1,0 +1,21 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="estilo.css"/>
+<title> Rio 2016 </title>
+<div id="estilo">
+</br></br>
+<img src="Rio 2016.jpg"/>
+<link rel= "stylebheet" type= "text/css" href= "estilo.css" />
+</head>
+<body background="Fundo.jpg" bgproperties="fixed" widch: 100% >
+<body>
+<ul id= "nav">
+<li><a href= "file:///C:/Users/Inform%C3%A1tica%202%C2%BA%20ano/Desktop/Nova%20pasta/atletismo.html">Atletismo </a></li>
+<li><a href= "file:///C:/Users/Inform%C3%A1tica%202%C2%BA%20ano/Desktop/Nova%20pasta/basquetebol.html">Basquetebol </a>
+<li><a href= "file:///C:/Users/Informática%202º%20ano/Desktop/Nova%20pasta/ginastica.html">Ginastica </a></li>
+<li><a href= "file:///C:/Users/Inform%C3%A1tica%202%C2%BA%20ano/Desktop/Nova%20pasta/natacao.html">Natacao </a></li>
+</ul>
+</li>
+</br></br>
+</body>
+</html>
